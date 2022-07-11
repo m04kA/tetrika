@@ -51,4 +51,4 @@ Thumbs.db
 .venv
 .idea
 
-logs/*.log
+logs/*
